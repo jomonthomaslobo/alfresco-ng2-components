@@ -259,6 +259,8 @@
     "ACCESSIBILITY": {
       "SELECT_ALL": "Select all",
       "SELECT_FILE": "Select file",
+      "SORT_ASCENDING": "ascending",
+      "SORT_DESCENDING": "descending"
       "ICON_TEXT": "File type {{ type }}"
     },
     "FILE_TYPE": {
@@ -400,6 +402,7 @@
     }
   },
   "ABOUT": {
+    "VERSION": "Version",
     "SERVER_SETTINGS": {
       "TITLE": "Server settings",
       "DESCRIPTION": "The values below are taken from the AppConfigService",
